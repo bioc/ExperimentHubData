@@ -1,5 +1,4 @@
 import(methods)
-import(utils)
 import(BiocGenerics)
 import(S4Vectors)
 import(httr)
